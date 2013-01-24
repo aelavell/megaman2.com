@@ -7,13 +7,13 @@
   </head>
   <body>
     <center>
-      <h1 class="saying">STARFOX</h1>
+      <h1 class="saying">CLICK</h1>
       <img id="fox" src="Images/fox2.png"></img>
       <img id="falco" src="Images/falco.png"></img>
       <img id="dog" src="Images/dog.png"></img>
       <img id="peppy" src="Images/peppy.png"></img>
       <img id="slippy" src="Images/slippy.png"></img>
-      <h1 class="saying">STARFOX</h1>
+      <h1 class="saying">CLICK</h1>
     </center>
 
     <audio id="fox_audio" src="Audio/fox.mp3" type="audio/mpeg"></audio>
