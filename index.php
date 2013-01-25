@@ -16,7 +16,7 @@
       <h1 class="saying">CLICK</h1>
     </center>
 
-    <audio id="password_loop" src="Audio/password_loop.mp3 type="audio/mpeg" autoplay></audio>
+    <audio id="password_loop" src="Audio/password_loop.mp3" type="audio/mpeg" autoplay ></audio>
     <audio id="fox_audio" src="Audio/fox.mp3" type="audio/mpeg"></audio>
     <audio id="falco_audio" src="Audio/falco.mp3" type="audio/mpeg"></audio>
     <audio id="dog_audio" src="Audio/dog.mp3" type="audio/mpeg"></audio>
