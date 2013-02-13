@@ -22,6 +22,5 @@
     <audio id="dog_audio" src="Audio/dog.mp3" type="audio/mpeg"></audio>
     <audio id="peppy_audio" src="Audio/peppy.mp3" type="audio/mpeg"></audio>
     <audio id="slippy_audio" src="Audio/slippy.mp3" type="audio/mpeg"></audio>
-    
   </body>
 </html>
