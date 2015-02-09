@@ -1,0 +1,15 @@
+{
+  "name": "megaman2.com",
+  "version": "4.2.0",
+  "description": "Megaman",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+   "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
